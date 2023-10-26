@@ -16,7 +16,7 @@ $p .= "\x05\x5e\x48\x31\xd2\xb8\x3c\x00\x00\x00\x0f\x05";
 
 print "\n";
 print "*" x 44;
-print "\n* exec_asm64-open.pl - by isra - hckng.org *\n";
+print "\n* exec_asm64-read.pl - by isra - hckng.org *\n";
 print "*" x 44;
 print "\n\n";
 
